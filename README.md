@@ -8,12 +8,8 @@ The number of employees and fertilizers needed for each hectare are described in
 
 
               Corn       Beans
-Employees      3           2
-Fertilizers   2 Ton       4 Ton
-
-              Corn       Beans
-Employees      3           2
-Fertilizers   2 Ton       4 Ton
+Employees      3      -     2
+Fertilizers   2 Ton   -   4 Ton
 
 
 =============== Resolution =================
