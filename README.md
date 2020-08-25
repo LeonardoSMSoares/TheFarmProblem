@@ -6,7 +6,6 @@ Linear programming (LP, also called linear optimization) is a method to achieve 
 John owns a small 45-hectare farm and wants to plant corn and beans. Each hectare of corn generates a profit of US $ 200 and each hectare of beans returns US $ 300 in profit. 
 The number of employees and fertilizers needed for each hectare are described in the table below, Considering that John has 100 employees and 120 tons of fertilizers, how can he maximize his profit?
 
-
               Corn       Beans
 Employees      3      -     2
 Fertilizers   2 Ton   -   4 Ton
