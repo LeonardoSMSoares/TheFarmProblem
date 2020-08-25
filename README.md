@@ -1,5 +1,6 @@
 # TheFarmProblem
-It's a classical problem in linear optimization.
+
+It's a classical problem in linear optimization - Based in the class from Professor Luiz Leduino Neto (Unifesp): "Linear Optimization"
 
 Linear programming (LP, also called linear optimization) is a method to achieve the best outcome (such as maximum profit or lowest cost) in a mathematical model whose requirements are represented by linear relationships. Linear programming is a special case of mathematical programming (also known as mathematical optimization).
 
