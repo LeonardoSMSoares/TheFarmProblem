@@ -19,6 +19,7 @@ The number of employees and fertilizers needed for each hectare are described in
 Decision variables:
 
 x1 = hectares with corn
+
 x2 = hectares with beans
 
 Max profit (L): 200*x1 + 300*x2
