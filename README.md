@@ -26,7 +26,9 @@ Max profit (L): 200*x1 + 300*x2
 Restrictions:
 
 (Area): x1 + x2 = 45
+
 (Employees): 3*x1 + 4*x2 <= 100
+
 (Fertilizers): 2*x1 + 4*x2 <= 120
 
 x1, x2 >= 0
